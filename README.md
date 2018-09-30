@@ -1,2 +1,2 @@
-# movie_app
+# movie-app
 A simple app to see now playing movies and also search movie details
