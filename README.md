@@ -1,7 +1,7 @@
 # movie-app
 
 ### Description 
-Native Android App built in Kotlin for Movie Search. Built with latest Android Architecture Components of Android JetPack, MVVM and RxJava2. 
+Native Android App built in Kotlin for Movie Search. Built with latest Android Architecture Components of Android JetPack, MVVM, RxJava2 and Dagger2. 
 
 ## Features:
 - Now Playing : Shows movies currently playing in theatres.
@@ -26,7 +26,7 @@ App has used latest Android technologies. Below are a list of components in use:
 
 ### Apk Direct Download Link
 
-https://github.com/BishSingh/walmart-app/blob/master/walmart-app-debug.apk
+https://github.com/BishSingh/movie-app/blob/master/movie_app_debug.apk
 
 ### Testing the app
 - Download the apk from link above. 
