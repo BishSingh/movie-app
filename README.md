@@ -8,8 +8,6 @@ Native Android App built in Kotlin for Movie Search. Built with latest Android A
 - Movie Details: Clicking on a movie, shows movie details.
 - Search: Autocomplete search feature to search any movie and see it's details.
 
-UX of the app was designed by me, so pardon my UX designing skills :)
-
 ### Components in use
 
 App has used latest Android technologies. Below are a list of components in use:
