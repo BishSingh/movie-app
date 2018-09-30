@@ -48,7 +48,7 @@ class HomeActivity : AppCompatActivity() {
 
         /**
          * Using Debounce operator here so that we don't make service calls multiple times and input is
-         * read only after a delay of 400ms
+         * read only after a delay of 250ms
          */
         searchTerm.debounce(250, TimeUnit.MILLISECONDS)
                 .observeOn(AndroidSchedulers.mainThread())
