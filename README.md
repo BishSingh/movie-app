@@ -35,11 +35,11 @@ https://github.com/BishSingh/movie-app/blob/master/movie_app_debug.apk
 
 ### App screenshots
 
-![alt text]()
+![alt text](https://github.com/BishSingh/movie-app/blob/master/Screenshot_20180929-230219.png)
 
-![alt text]()
+![alt text](https://github.com/BishSingh/movie-app/blob/master/Screenshot_20180929-230240.png)
 
-![alt text]()
+![alt text](https://github.com/BishSingh/movie-app/blob/master/Screenshot_20180929-230305.png)
 
-![alt text]()
+![alt text](https://github.com/BishSingh/movie-app/blob/master/Screenshot_20180929-230356.png)
 
